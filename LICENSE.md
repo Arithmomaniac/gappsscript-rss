@@ -1,4 +1,6 @@
-Code is based heavily on [work](http://www.labnol.org/internet/twitter-rss-feeds/27931/) from Amit Agarwal of indeterminate license.
+Code is based heavily on work from Amit Agarwal. His [license](http://www.labnol.org/internet/twitter-rss-feeds/27931/) is:
+> As always, you are free to use, modify and distribute the Google Script with attribution.
+
 The following license holds only to Avi Levin's modifications and original work.
 
 -----------
